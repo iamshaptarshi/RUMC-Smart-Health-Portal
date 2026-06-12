@@ -4,6 +4,12 @@
 The RUMC Smart Health Portal is a paperless medical management solution that improves healthcare accessibility, efficiency, and patient experience by integrating multiple hospital services into a single platform.
 
 ---
+For Patient Features- localhost:5173/
+For Doctor Dashboard- localhost:5173/dashboard
+
+---
+
+---
 ## 🚀 Features Implemented
 
 | 👤 Patient Module          | 👨‍⚕️ Doctor Module          | 📊 Additional Features       |
@@ -74,7 +80,7 @@ node server.js
 Backend will run on:
 
 ```text
-http://localhost:5000
+http://localhost:3000
 ```
 
 ---
