@@ -1,0 +1,38 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+@plugin "daisyui/theme" {
+  name: "light";
+  default: true;
+
+  --color-primary: #7B74EA;
+  --color-secondary: #EEE9FC;
+  --color-accent: #f59e0b;
+  --color-base-100: #ffffff;
+  --color-base-content: #111827;
+}
+
+@plugin "daisyui/theme" {
+  name: "dark";
+
+  --color-primary: #7B74EA;
+  --color-secondary: #EEE9FC;
+  --color-accent: #f59e0b;
+  --color-base-100: #ffffff;
+  --color-base-content: #111827;
+}
+
+body {
+  font-family: 'Cabin', sans-serif;
+}
+
+.active{
+  color: rgb(32, 20, 124);
+  font-weight: bold;
+  
+}
+
+input[type="time"] {
+  color-scheme: light;
+}
