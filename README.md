@@ -4,48 +4,30 @@
 The RUMC Smart Health Portal is a paperless medical management solution that improves healthcare accessibility, efficiency, and patient experience by integrating multiple hospital services into a single platform.
 
 ---
-
 ## 🚀 Features Implemented
 
-### 👤 Patient Module
-- Profile Management
-- Online Appointment Booking
-- Appointment History
-- Medical Record Access
-- Lab Report Tracking
-
-### 👨‍⚕️ Doctor Module
-- View Scheduled Appointments
-- Manage Patient Records
-- Create Digital Prescriptions
-- Update Appointment Status
-- Check Availability Schedule
-
-
-### 📊 Additional Features
-- Responsive UI
-- Real-Time Dashboard Updates
-- Centralized Medical Records
-- Medicine Tracking
-- Emergency Service Management
+| 👤 Patient Module          | 👨‍⚕️ Doctor Module          | 📊 Additional Features       |
+| -------------------------- | ---------------------------- | ---------------------------- |
+| Profile Management         | View Scheduled Appointments  | Responsive UI                |
+| Online Appointment Booking | Manage Patient Records       | Real-Time Dashboard Updates  |
+| Appointment History        | Create Digital Prescriptions | Centralized Medical Records  |
+| Medical Record Access      | Update Appointment Status    | Medicine Tracking            |
+| Lab Report Tracking        | Check Availability Schedule  | Emergency Service Management |
 
 ---
 
 ## 🏗️ Tech Stack
 
-### Frontend
-- React.js
-- React Router
-- Axios
-- Tailwind CSS / CSS3
-- JavaScript (ES6+)
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
+| Layer           | Technology          |
+| --------------- | ------------------- |
+| Frontend        | React.js            |
+| Routing         | React Router        |
+| HTTP Client     | Axios               |
+| Styling         | Tailwind CSS        |
+| Language        | JavaScript (ES6+)   |
+| Backend         | Node.js, Express.js |
+| Database        | MongoDB             |
+| Version Control | Git, GitHub         |
 
 ---
 
