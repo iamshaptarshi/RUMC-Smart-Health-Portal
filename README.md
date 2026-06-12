@@ -4,8 +4,10 @@
 The RUMC Smart Health Portal is a paperless medical management solution that improves healthcare accessibility, efficiency, and patient experience by integrating multiple hospital services into a single platform.
 
 ---
+```text
 For Patient Features- localhost:5173/
-For Doctor Dashboard- localhost:5173/dashboard
+For Doctor Dashboard- localhost:5173/
+```
 
 ---
 
